@@ -1,1 +1,2 @@
 This is init commit then check edit
+Now check commit + push
